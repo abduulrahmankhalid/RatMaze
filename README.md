@@ -13,7 +13,7 @@ Use Multi-threading to solve this problem. You should design a multithreaded JAV
 
  
 
-## What have you actually did? 
+## What we have you actually did ? 
 
 We have done this project using “Backtracking” algorithm creating 5 classes: RatMaze.java, PrintMaze.java, Solver.java, View.java & Starter.java we achieved the project target. 
 
